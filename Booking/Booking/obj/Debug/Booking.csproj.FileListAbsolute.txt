@@ -1,0 +1,10 @@
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\bin\Debug\Booking.exe.config
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\bin\Debug\Booking.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\bin\Debug\Booking.pdb
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.csprojAssemblyReference.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.Form1.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.Properties.Resources.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.csproj.GenerateResource.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.csproj.CoreCompileInputs.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Booking\Booking\obj\Debug\Booking.pdb

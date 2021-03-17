@@ -1,0 +1,10 @@
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\bin\Debug\Cinema Buffet Sales Panel.exe.config
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\bin\Debug\Cinema Buffet Sales Panel.exe
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\bin\Debug\Cinema Buffet Sales Panel.pdb
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema Buffet Sales Panel.csprojAssemblyReference.cache
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema_Buffet_Sales_Panel.Form2.resources
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema_Buffet_Sales_Panel.Properties.Resources.resources
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema Buffet Sales Panel.csproj.GenerateResource.cache
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema Buffet Sales Panel.csproj.CoreCompileInputs.cache
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema Buffet Sales Panel.exe
+C:\Users\sayot\source\repos\Cinema Buffet Sales Panel\Cinema Buffet Sales Panel\obj\Debug\Cinema Buffet Sales Panel.pdb

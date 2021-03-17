@@ -1,0 +1,10 @@
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\bin\Debug\Login Panel.exe.config
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\bin\Debug\Login Panel.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\bin\Debug\Login Panel.pdb
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login Panel.csprojAssemblyReference.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login_Panel.Form1.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login_Panel.Properties.Resources.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login Panel.csproj.GenerateResource.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login Panel.csproj.CoreCompileInputs.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login Panel.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Login Panel\Login Panel\obj\Debug\Login Panel.pdb

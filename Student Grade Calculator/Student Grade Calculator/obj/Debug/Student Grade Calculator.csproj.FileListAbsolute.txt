@@ -1,0 +1,10 @@
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.exe.config
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.pdb
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.csprojAssemblyReference.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student_Grade_Calculator.Form1.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student_Grade_Calculator.Properties.Resources.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.csproj.GenerateResource.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.pdb
