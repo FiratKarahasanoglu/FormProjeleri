@@ -1,0 +1,10 @@
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\bin\Debug\Student Exam Statues.exe.config
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\bin\Debug\Student Exam Statues.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\bin\Debug\Student Exam Statues.pdb
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student Exam Statues.csprojAssemblyReference.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student_Exam_Statues.Form1.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student_Exam_Statues.Properties.Resources.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student Exam Statues.csproj.GenerateResource.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student Exam Statues.csproj.CoreCompileInputs.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student Exam Statues.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Student Exam Statues\Student Exam Statues\obj\Debug\Student Exam Statues.pdb
