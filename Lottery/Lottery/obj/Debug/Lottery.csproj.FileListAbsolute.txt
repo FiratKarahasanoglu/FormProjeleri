@@ -1,0 +1,10 @@
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.csprojAssemblyReference.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\sayot\OneDrive\Masaüstü\C#projelerim\Lottery\Lottery\obj\Debug\Lottery.pdb
