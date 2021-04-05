@@ -57,10 +57,6 @@ namespace PersonalRegister
             this.btnList = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.personalVeriTabaniDataSet = new PersonalRegister.PersonalVeriTabaniDataSet();
-            this.tBLPersonelBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.tBL_PersonelTableAdapter1 = new PersonalRegister.PersonalVeriTabaniDataSetTableAdapters.TBL_PersonelTableAdapter();
             this.personelidDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.personeladDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.personelSoyadDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -68,13 +64,17 @@ namespace PersonalRegister
             this.personelMaasDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.personelDurumDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.personelMeslekDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tBLPersonelBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.personalVeriTabaniDataSet = new PersonalRegister.PersonalVeriTabaniDataSet();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.tBL_PersonelTableAdapter1 = new PersonalRegister.PersonalVeriTabaniDataSetTableAdapters.TBL_PersonelTableAdapter();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.personalVeriTabaniDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tBLPersonelBindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.personalVeriTabaniDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -271,6 +271,7 @@ namespace PersonalRegister
             this.btnClear.TabIndex = 14;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // btnUpdate
             // 
@@ -298,6 +299,7 @@ namespace PersonalRegister
             this.btnSave.TabIndex = 11;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnList
             // 
@@ -339,30 +341,6 @@ namespace PersonalRegister
             this.dataGridView1.Size = new System.Drawing.Size(763, 160);
             this.dataGridView1.TabIndex = 25;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(673, 21);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(108, 88);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
-            // 
-            // personalVeriTabaniDataSet
-            // 
-            this.personalVeriTabaniDataSet.DataSetName = "PersonalVeriTabaniDataSet";
-            this.personalVeriTabaniDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // tBLPersonelBindingSource1
-            // 
-            this.tBLPersonelBindingSource1.DataMember = "TBL_Personel";
-            this.tBLPersonelBindingSource1.DataSource = this.personalVeriTabaniDataSet;
-            // 
-            // tBL_PersonelTableAdapter1
-            // 
-            this.tBL_PersonelTableAdapter1.ClearBeforeFill = true;
             // 
             // personelidDataGridViewTextBoxColumn
             // 
@@ -421,6 +399,30 @@ namespace PersonalRegister
             this.personelMeslekDataGridViewTextBoxColumn.Name = "personelMeslekDataGridViewTextBoxColumn";
             this.personelMeslekDataGridViewTextBoxColumn.Width = 125;
             // 
+            // tBLPersonelBindingSource1
+            // 
+            this.tBLPersonelBindingSource1.DataMember = "TBL_Personel";
+            this.tBLPersonelBindingSource1.DataSource = this.personalVeriTabaniDataSet;
+            // 
+            // personalVeriTabaniDataSet
+            // 
+            this.personalVeriTabaniDataSet.DataSetName = "PersonalVeriTabaniDataSet";
+            this.personalVeriTabaniDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(673, 21);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(108, 88);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            // 
+            // tBL_PersonelTableAdapter1
+            // 
+            this.tBL_PersonelTableAdapter1.ClearBeforeFill = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
@@ -442,9 +444,9 @@ namespace PersonalRegister
             this.groupBox2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.personalVeriTabaniDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tBLPersonelBindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.personalVeriTabaniDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
